@@ -1,0 +1,11 @@
+.mceContentBody {
+	max-width:660px;
+}
+
+p {
+	margin-bottom: 15px;
+	font: 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 18px;
+	margin-left: 10px;
+	margin-right: 10px;
+}

@@ -1,0 +1,8 @@
+2012-06-15 - Version 1.2
+* Fixed the featured posts slider not working after the WordPress 3.4 update. You can check out our support forum for a quick fix
+
+2012-03-15 - Version 1.1
+* Fixed the bold and italic formatting issue
+
+2011-11-19 - Version 1.0
+* Initial theme release!
